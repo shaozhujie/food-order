@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.project.movie.mapper.FoodItemMapper">
+    <select id="getRecommandItem" resultType="com.project.movie.domain.FoodItem">
+        select * from food_item where 1 = 1
+        <if test="ew != null and ew.size > 0">
+            and
+            <foreach collection="ew" open="(" separator=" or " close=")" item="item" index="index">
+                typeId like concat('%',#{item},'%')
+            </foreach>
+        </if>
+        order by rand() limit 6
+    </select>
+</mapper>
