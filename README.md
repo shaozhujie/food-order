@@ -1,6 +1,8 @@
 # SpringBoot+Vue的外卖点餐系统
 
-**有问题可以 :tw-1f1f6:  :tw-1f1f6:  :tw-31-20e3:  :tw-37-20e3:  :tw-36-20e3:  :tw-30-20e3:  :tw-32-20e3:  :tw-37-20e3:  :tw-32-20e3:  :tw-36-20e3:  :tw-32-20e3:  :tw-37-20e3: 交流** 
+**获取源码和数据库请加QQ：1760272627** 
+
+**演示视频：** https://www.bilibili.com/video/BV1iHJtz6ECY/?vd_source=5f273f72fd3dc593e25c33cbccdad12e 
 
  **功能：** 
 
@@ -12,20 +14,8 @@
 
 商家：登录、首页、商家美食管理、商家订单管理、个人中心
 
- **系统截图：** 
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113235.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113310.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113313.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113317.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113319.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113322.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113325.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113328.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113330.png)
-![输入图片说明](src/main/resources/mybatis/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250520113333.png)
-
 **采用技术：** SpringBoot，Mybatis-plus，Vue，redis，mysql，ElementUi 
 
  **工具：** idea，vscode，navicat
 
-**有问题可以 :tw-1f1f6:  :tw-1f1f6:  :tw-31-20e3:  :tw-37-20e3:  :tw-36-20e3:  :tw-30-20e3:  :tw-32-20e3:  :tw-37-20e3:  :tw-32-20e3:  :tw-36-20e3:  :tw-32-20e3:  :tw-37-20e3: 交流** 
+**获取源码和数据库请加QQ：1760272627** 
